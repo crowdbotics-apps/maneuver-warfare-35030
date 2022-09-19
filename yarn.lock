@@ -1166,6 +1166,9 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
+"@screens/login@file:./screens/login":
+  version "1.0.0"
+
 "@screens/login@file:./screens/login/":
   version "1.0.0"
 
